@@ -1,1 +1,10 @@
 Prueba de conecsion a git
+
+
+-----------------------------------------------------------
+COMANDOS QUE USE EN LA TERMINAL DESDE ARCH LINUX:
+
+ 1.- Para actualizar cambios:
+      |-- # git add .
+      |-- # git commit -m "NOMBRE_DEL_GUARDADO"
+      |-- # git push -u origin master
