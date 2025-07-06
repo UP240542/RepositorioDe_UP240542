@@ -8,3 +8,5 @@ COMANDOS QUE USE EN LA TERMINAL DESDE ARCH LINUX:
       |-- # git add .
       |-- # git commit -m "NOMBRE_DEL_GUARDADO"
       |-- # git push -u origin master
+      |-- # git push -u origin main
+      |-- # git remote add origin https://github.com/<TU_USUARIO>/Proyecto1.0.git
